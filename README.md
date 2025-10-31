@@ -20,11 +20,11 @@
 <h3 align="center">Linguagens e Ferramentas:</h3>
 <p align="center"> 
 <a href="https://www.salesforce.com/br/" target="_blank" rel="noreferrer"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRaAx4OMNKDO78w1GtSY9IKw8zy3RPjRMbWyg&s" alt="SalesForce" width="40" height="40"/> </a>
+<a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRurR_4-2IaRx2VR1LunphwRBW3QxpSQKZH0w&s" alt="Power BI" width="40" height="40"/> </a>   
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-<a href="https://www.r-project.org/" traget="_blank" rel="noreferrer" > <img src="https://www.r-project.org/logo/Rlogo.svg" alt="R-project" width="40" height="40"/> </a>
+<a href="https://n8n.io/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/n8n-io/n8n/master/assets/n8n-logo.png" alt="N8N" width="40" height="40"/> </a> 
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
-<a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://assets.dio.me/AqBV_0kVyg2No_u7qQrWnqUNwmHLd4uyBUghLkZmtW0/f:webp/q:80/L2FydGljbGVzL2NvdmVyL2VmZjJmNTIyLTcyMjEtNDVlZC1hNGQ0LTUyMjI5ZDc3YzBjZS5qcGc" alt="Power BI" width="40" height="40"/> </a> 
 </p>
 
 ##
