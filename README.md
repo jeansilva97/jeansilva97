@@ -1,10 +1,9 @@
 <h1 align="center">Oi 👋, eu sou o Jean José!</h1>
-<h3 align="center">Cientista de Dados e graduado em Economia</h3>
+<h3 align="center">Graduado em Economia, Consultor Tributário e Amante das Tecnologias </h3>
 
-- 🌱 Eu estou aprendendo: ** Ciência de Dados **
+- 🌱 Eu estou aprendendo: ** Sales Force, N8N e Inteligência Artificial.🤖⚙️ **
 
-- 📝 Escrevo artigos: [https://medium.com/@jeansilva97](https://medium.com/@jeansilva97)
-
+- 📝 Perfil Sales Force Trailhead: [https://www.salesforce.com/trailblazer/jeansilva1997]
 - 📫 Contato: ** jean_profile@hotmail.com **
 
 ##
