@@ -11,9 +11,8 @@
 <h3 align="left">Conecte-se comigo</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/jean-jos%C3%A9-81a152b3/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jean-jos%C3%A9-81a152b3" height="30" width="40" /></a>
-<a href="https://medium.com/@jeansilva97" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@jeansilva97" height="30" width="40" /></a>
-<a href="https://www.kaggle.com/jeansilva97" target="blank"><img align="center" src="https://www.endtoend.ai/assets/blog/tutorial/kaggle-dataset-ubuntu/kaggle.png" alt="jeansilva97" height="30" width="40" /></a>
-<a href="https://www.reddit.com/user/jean_jose97" target="blank"><img align="center" src="https://cdnb.artstation.com/p/assets/images/images/037/069/235/large/guilherme-camarotto-logoredditcolorido.jpg?1619411226" alt="jean_jose97" height="30" width="40" /></a>
+<a href="https://www.salesforce.com/trailblazer/jeansilva1997" target="blank"><img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRaAx4OMNKDO78w1GtSY9IKw8zy3RPjRMbWyg&s" alt="@jeansilva97" height="30" width="40" /></a>
+<a href="https://web.dio.me/users/jean_profile?tab=achievements" target="blank"><img align="center" src="https://media.licdn.com/dms/image/v2/D4D12AQHlrBNk09sbDQ/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1709687009497?e=2147483647&v=beta&t=4IVLsRNCvdrP3o8tDjlep2WZe9YrIJvsGqZHRBbqeX8" alt="jeansilva97" height="30" width="40" /></a>
 </p>
 
 ##
