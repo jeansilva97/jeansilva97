@@ -3,7 +3,6 @@
 
 - 🌱 Eu estou aprendendo: ** Sales Force, N8N e Inteligência Artificial.🤖⚙️ **
 
-- 📝 Perfil Sales Force Trailhead: [https://www.salesforce.com/trailblazer/jeansilva1997]
 - 📫 Contato: ** jean_profile@hotmail.com **
 
 ##
